@@ -3,7 +3,7 @@ interesting to present to other people to solve. Each challenge directory will h
 of the CTF challenge, and how to solve it. At its finest, a CTF challenge is a well-crafted puzzle that demands from its solvers
 and I think it will be fun to create my own CTF challenges that could challenge (and train) other people. 
 
-Each flag is in the form of 'FILE_' and then random strings. There are no spaces within a flag; all 'spaces' are replaced with
+Each flag is in the form of 'FLAG_' and then random strings. There are no spaces within a flag; all 'spaces' are replaced with
 underscores. Try to figure out the solution to the challenges without looking at the READMEs first, then if you are stuck check
 them to get the solution :)
 
